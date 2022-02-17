@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1634987735 source:c:\users\1\onedrive\Рабочий стол\3sem_inf\contest1\a\main.cpp
+	<iostream>
+	<algorithm>
+	<set>
+	<vector>
+

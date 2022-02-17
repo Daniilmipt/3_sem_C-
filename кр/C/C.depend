@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1636708605 source:c:\users\1\onedrive\Рабочий стол\3sem_inf\кр\c\main.cpp
+	<iostream>
+	<map>
+	<algorithm>
+	<vector>
+

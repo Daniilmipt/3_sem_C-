@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1638012118 source:c:\users\1\onedrive\Рабочий стол\3sem_inf\коррекция_ошибок(2)\main.cpp
+	<iostream>
+	<fstream>
+	<optional>
+	<string>
+	<set>
+

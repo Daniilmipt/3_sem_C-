@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1636204142 source:c:\users\1\onedrive\Рабочий стол\3sem_inf\lab_5\2\main.cpp
+	<iostream>
+	<map>
+	<fstream>
+	<set>
+

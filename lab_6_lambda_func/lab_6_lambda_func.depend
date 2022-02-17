@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1637410720 source:c:\users\1\onedrive\Рабочий стол\3sem_inf\lab_6_lambda_func\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<map>
+	<vector>
+	<iterator>
+
